@@ -9,3 +9,6 @@ Server.cpp
 Client.cpp
 - Read shared memory **Output** in while loop
 - When finds value **98** in memory **Output** breaks while loop write value **1** in memory **Feedback** and print timestamp
+
+Compiler
+- g++
